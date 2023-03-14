@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37e26fbd284ffa549972db14e5a795f6, type: 3}
+  m_Name: FactoryTiles
+  m_EditorClassIdentifier: 
+  destiantionPrefab: {fileID: 3739128590864447144, guid: 0bb342abdfd574643a7f3bdeab9133c0, type: 3}
+  emptyPrefab: {fileID: 1107208855059403759, guid: 2dd7f21aaeb4d6f43963fd830371969d, type: 3}
+  wallPrefab: {fileID: 945412623698667143, guid: a166472a0b240654f98240758759ed8f, type: 3}
