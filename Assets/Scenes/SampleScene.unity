@@ -416,6 +416,8 @@ MonoBehaviour:
   boardSize: {x: 11, y: 11}
   board: {fileID: 278847759}
   factory: {fileID: 11400000, guid: 127eac0c3babd064191b6c5d81d6064e, type: 2}
+  enemyFactory: {fileID: 11400000, guid: 80b18917506367041a753ef3fab6738c, type: 2}
+  spawnSpeed: 1
 --- !u!4 &826305026
 Transform:
   m_ObjectHideFlags: 0
